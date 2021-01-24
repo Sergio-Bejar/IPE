@@ -49,9 +49,9 @@ DO NOT enroll in an online course if you know that you are going to be away from
 
 Please note that students are responsible for their own Internet access and computing resources. A loss of connectivity is not an excuse for late assignments. Some Internet service providers (ISPs) are notorious for inferior, unreliable service. In previous semesters, students have lost Internet connectivity in the middle of exams. Students who wait until the last possible moment to submit an assignment also run the risk of an unanticipated service disruption that prevents timely submission. 
 
-I will post announcements on CANVAS on a regular basis. They will appear on your dashboard when you log in and/or will be sent to you directly through your preferred method of notification from CANVAS. Please make sure to check them regularly, as they will contain any important information about upcoming projects or class concerns. 
+I will post announcements on Canvas on a regular basis. They will appear on your dashboard when you log in and/or will be sent to you directly through your preferred method of notification from Canvas. Please make sure to check them regularly, as they will contain any important information about upcoming projects or class concerns. 
 
-In this course we will use the CONVERSATIONS feature on the help corner (located in navigation links) to send email for private messages. You can either check your messages in the CANVAS system or set your notifications to your preferred method of contact. Please check your messages regularly. 
+In this course we will use the CONVERSATIONS feature on the help corner (located in navigation links) to send email for private messages. You can either check your messages in the Canvas system or set your notifications to your preferred method of contact. Please check your messages regularly. 
 
 I receive many emails from students everyday, and I try to respond to all of them in a timely manner.  An email is a formal communication between you and your professor, and it thus should be addressed properly.  For my students, I am Dr. Bejar or Dr. Bejar-Lopez.  Please keep this in mind when you send me an email.  **I will not respond to emails that are not properly addressed.**
 
@@ -97,3 +97,13 @@ I am usually quick to respond to student e-mails. However, student e-mails tend 
 # Course Workload Expectations: Succeeding in a Four-Unit Course
 
 SJSU classes are designed such that in order to be successful, it is expected that students will spend a minimum of forty-five hours for each unit of credit (normally three hours per unit per week), including preparing for class, participating in course activities, completing assignments, and so on. Because this is a four-unit course, you can expect to spend a minimum of nine hours per week, in addition to time spent in class, on scheduled tutorials, assignments, or activities. This additional unit will allow for more in-depth investigation and engagement with course topics. Careful time management will help you keep up with readings and assignments and enable you to be successful in all of your courses. More details about student workload can be found in University Policy S12-3 at <http://www.sjsu.edu/senate/docs/S12-3.pdf>.
+
+
+# Course Readings
+
+There is NO required textbook for the course given that the lectures will be asynchronous. That said, I use the following text book as a reference for my lectures: Thomas Oatley, International Political Economy: Interests and Institutions in the Global Economy, 6th ed. (New York: Pearson, 2019). As noted above, this book is optional since I primarily rely on my lecture notes in power-point format for instruction and for the exams as well as the assignments. Although the book is optional, you are more than welcome to buy the book at [Amazon](https://www.amazon.com/International-Political-Economy-Thomas-Oatley/dp/1138490741) if you prefer. In addition to the Thomas Oatley textbook, you are required to read several newspaper articles (online) from CNN Business, CNBC, FOX business, Financial times and so on. You will also have to read and comment on magazine articles or essays from primarily Foreign Affairs, Foreign Policy, the Economist, and other journal-length articles written by academics. You do not have to
+read the entire journal article unless you want to. In fact, I will provide the page numbers in the journal-length articles that you are expected to read for each class. The reading load for this course is thus fairly light. 
+
+Because the reading load is less, I expect students to read the material carefully and
+participate constructively in the required Canvas Board Discussions and on Zoom when possible. The power-point lecture slides as well as readings will be available prior to the related class via Canvas and my email messages via Canvas.
+

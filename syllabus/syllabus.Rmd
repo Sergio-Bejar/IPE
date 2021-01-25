@@ -11,7 +11,7 @@ date: "San Jose State University, Spring 2021"
 
 email: "sergio.bejar@sjsu.edu"
 web: "sergiobejar.com"
-officehours: "W 09:00-11:30 a.m."
+officehours: "Tuesday 3:00-5:00 p.m. & by appointment (Zoom)"
 office: "453 Clark Hall"
 classroom: "*online*"
 classhours: "Asynchronous"
@@ -88,7 +88,7 @@ Upon successful completion of this course, students will be able to:
 I am usually quick to respond to student e-mails. However, student e-mails tend to do several things that try my patience. I have a new policy, effective Spring 2021, that outlines why I will not respond to certain e-mails students send. Multiple rationales follow.
 
 1. The student could answer his/her own inquiry by reading the syllabus.
-2. The student missed assignments or exams for which there. I do not need to know the exact reason for a missed assignment or exam. Students with excusable reasons are responsible for giving me a note *in hard copy* that documents the reason for the missed class. 
+2. The student missed assignments or exams. I do not need to know the exact reason for a missed assignment or exam. Students with excusable reasons are responsible for giving me a note *in hard copy* that documents the reason for the missed class. 
 3. The student wants to know what topics have been covered in class. The answer is always "you missed what was on the syllabus."
 4. The student is protesting a grade without reference to specific points of objection. These e-mails tend to be expressive utility on the part of the student and do not require a response from me. Students interested in improving their knowledge of material should see me during office hours.
 6. The student is requesting an extension on an assignment for which the syllabus already established the deadline. The answer is always "no".
@@ -105,4 +105,162 @@ SJSU classes are designed such that in order to be successful, it is expected th
 There is NO required textbook for the course given that the lectures will be asynchronous. That said, I use the following text book as a reference for my lectures: Thomas Oatley, International Political Economy: Interests and Institutions in the Global Economy, 6th ed. (New York: Pearson, 2019). As noted above, this book is optional since I primarily rely on my lecture notes in power-point format for instruction and for the exams as well as the assignments. Although the book is optional, you are more than welcome to buy the book at [Amazon](https://www.amazon.com/International-Political-Economy-Thomas-Oatley/dp/1138490741) if you prefer. In addition to the Thomas Oatley textbook, you are required to read several newspaper articles (online) from CNN Business, CNBC, FOX business, Financial times and so on. You will also have to read and comment on magazine articles or essays from primarily Foreign Affairs, Foreign Policy, the Economist, and other journal-length articles written by academics. You do not have to read the entire journal article unless you want to. In fact, I will provide the page numbers in the journal-length articles that you are expected to read for each class. The reading load for this course is thus fairly light. 
 
 Because the reading load is less, I expect students to read the material carefully and participate constructively in the required Canvas Board Discussions. The power-point lecture slides as well as readings will be available prior to the related class via Canvas and my email messages via Canvas.
+
+# Assignment Weights and Due Dates 
+
+| **Assignment**         | **Weight**             | 
+|:--: | :--: | :--: |
+| Discussion Boards | 5 x 6% each = 30%  |           
+| Group Policy Briefs| 2 x 15% each = 30%|           
+| Exams             | 2 x 15% each = 30% |           
+| Quizes            | 5 X 2%  each = 10% |           
+
+
+# Description of Assignments
+
+**Discussion Boards:**  Students will participate in 5 graded discussion boards (there will be other non-graded boards). In each graded discussion you will be expected to make 3 posts: your initial post (minimum 200 words) and replies to at least two of your classmates (minimum 100 words each).  
+
+The nature of these posts varies.  But you should expect to get questions on the documnetaries and short videos that you are required to watch as well as on the newspaper and magazine articles that are part of your coursework.  Your postings should be well written and clearly address the issues being discussed. I expect each writing assignment to have: (1) A clear introduction that addresses directly the question posed by the instructor; (2) A body of factual examples that support your thesis; these examples may be drawn from either the assigned readings or footnoted sources researched independently by the student; (3) Appropriate source citations; plagiarized threads will be penalized. (4) A succinct concluding paragraph. Your responses must be posted by the deadline specified on Canvas. .
+
+If I have some concerns or comments about your thread, I will post a response. My comments are intended to help you improve your threads. If you respond to my comments, you may earn additional points. In order to earn a perfect score, you generally have to post an excellent thread the first time around and by the assigned deadline. In addition, you must respond to the threads of at least two other students 24 hrs. after the deadline.
+
+**Group Policy Briefs:** Once the final roster of the class is available, I will randomly assign you and your classmates will be assigned to a working group (or team).  As a team, you will craft two (2) policy briefs on topics that are currently relevant in the field of International Political Economy.  Each brief should be 1,000 words long. 
+
+You should use the following template to write your two-page policy briefing. 
+
+1. Bottom line: Your policy briefing should offer a recommended course of action for the case study. 
+2. Coherent Story: Your briefing should have an introduction, body, and conclusions, just like a paper. 
+3. Introduction: What is the problem? Why is it important? What is your one-sentence bottom-line? 
+4. Body: You should explicitly identify your policy recommendations and their expected effect. Why is your proposed course of action better than alternative policy solutions? Make sure to outline concrete, alternative actions and present supporting evidence for your policy choice. 
+5. Conclusion: What are the broader implications of your recommendations? 
+
+The topics of these policy briefs are:
+
+1. Bitcoin and the Future of the International Monetary System. 
+2. The Political Economy of the COVID-19 Crisis. 
+
+**Quizzes:** There will be 5 quizzes.  Each of them will ask questions about a different set of readings for a specific module (see below for details). The Canvas calendar will have the  deadlines.  *Late quizzes –even a second late- will receive a zero.*
+
+**Exams:** Students will take two(2) mid-term exams.  These exams will not be cummulative and are likely to include a combination of multiple choice, short answer and essay questions. 
+
+Both exams will be administered on Canvas. They will be open-notes and open-book exams, but you will not be allowed to collaborate with other students in completing them. Both exams will be timed. *Late exams –even a second late- will receive a zero.*
+
+# Policy on Late Work
+
+**Discussion board (initial posts):** initial posts can be submitted late but will incur a 25% penalty for each started 24-hour period (starting at 5:01pm on the day they are due). This means that you have 72 hrs. before your response receives automatically a 0. 
+
+**Discussion board (replies to classmates):** no late replies to classmates are allowed. The thread will close at 5:01pm on the day replies is due and no further submissions will be allowed.
+
+**Group Policy Briefs:** your briefs will be penalized 25% for each started 24-hour period (starting at 5:01pm). 
+
+**Exams and quizzes:** exam and quiz make-ups are only given in cases of medical or family emergencies, in accordance with the university’s policy on excused absences. In these cases, you MUST notify me before the exam and proper documentation must be provided.
+
+# Grading Scale 
+
+| Grade | Percentage |
+| :----| :-------:  |
+| A plus| 98-100% |
+| A | 94-97.9% |
+| A minus| 90-93.9% |
+| B plus | 87-89.9%|
+| B | 84-86.9% |
+| B minus| 80-83.9% |
+| C plus | 77-79.9%|
+| C | 74-76.9% |
+| C minus| 70-73.9% |
+| D plus | 67-69.9%|
+| D | 64-66.9% |
+| D minus| 60-63.9% |
+| F | 0-59.9% |
+
+# Public Sharing of Instructor Material
+
+Students are prohibited from distributing, sharing, or posting class lectures, slides, exams, or any other instructional materials. Materials created by the instructor for the course (syllabi, lectures and lecture notes, presentations, exams, etc.) are copyrighted by the instructor. [University policy S12-7](https://www.sjsu.edu/senate/docs/S12-7.pdf) is
+in place to protect the privacy of students in the course, as well as to maintain academic integrity through reducing the instances of cheating. Students who record, distribute, or post these materials will be referred to the Student Conduct and Ethical Development office. Unauthorized recording may violate university and state law. It is the responsibility of students that require special accommodations or assistive technology due to a disability to notify the instructor.
+
+# Academic Dishonesty
+
+Students who are suspected of cheating during an exam/quiz/assignment will be referred to the Student Conduct and Ethical Development office and depending on the severity of the conduct, will receive an  F in the course. Grade Forgiveness does not apply to courses for which the original grade was the result of a finding of academic dishonesty.
+
+# Course Schedule (Subject to Change with Fair Notice)
+
+| **Module** | **Dates** | **Topics, Readings and Assignments**|
+| :-----:| :-------:| :------|
+| 1| Jan 27 - Jan 29 | **Introduction**|
+|||1. Syllabus |
+|||2. Watch introductory video (Canvas)|
+|||3. Listen to [Brexit Podcast](http://www.npr.org/sections/money/2016/06/22/483142244/episode-707-brexit)
+|||**Non-graded discussion board due Jan, 29th (5 pm)** |
+|||**Syllabus Quiz due Jan, 29th (5 pm)**|
+||||
+|2|February 1- February 5| **Perspectives on IPE**|
+|||1. Read Bernanke. 2006. Read from bottom of page 1 (“A short history of global economic integration”) to the bottom of page 4.|
+|||2. Read Keohane and Nye. 2000. Read pages 1 to 4.|
+|||3. Watch the [video](https://www.youtube.com/watch?v=OkBYeKAsbxg)|
+|||**Discussion Board #1 due February, 5 (5 pm)**|
+||||
+|3|February 8 - February 19| **Politics of International Trade 1**|
+|||1. Read [Lincicome](https://www.cato.org/publications/commentary/case-free-trade)|
+|||2. Read [Perry](https://www.aei.org/carpe-diem/rent-seeking-a-significant-cost-of-protectionism-that-doesnt-show-up-in-the-standard-economic-analysis-of-tariffs/)|
+|||3. Read [Freeland](http://blogs.reuters.com/chrystia-freeland/2011/07/01/winners-and-losers-in-the-apple-economy/)|
+|||4. Cotton Wars [Podcast](http://www.npr.org/blogs/money/2013/05/03/180912847/episode-224-the-cotton-wars)|
+|||**Respond to Classmates' Posts by February 8th, (5pm)**|
+|||**Discussion Board #2 due February, 19th (5pm)**|
+|||**Quiz #2 due February 19th (5pm)**|
+||||
+|4|February 22 - March 5| **Politics of International Trade 2**|
+|||1. Read Milner and Kubota (see Canvas), pages 107-111 and 115-118|
+|||2. Read [Harwood](https://www.cnbc.com/2019/06/05/5-reasons-income-inequality-has-become-a-major-political-issue.html)|
+|||3. Read [Ortiz-Ospina](https://ourworldindata.org/trade-and-income-inequality)|
+|||4. PBS Documentary "Commanding Heights"|
+|||**Respond to Classmates' Posts by February 22nd, (5pm)**|
+|||**Discussion Board #3 due March 5th (5pm)**|
+|||**Quiz #3 due March 5th (5pm)**|
+||||
+|5|March 8 - March 12|**Midterm Exam #1**|
+||||||**Respond to Classmates' Posts by March, 8th (5pm)**|
+||||
+|6|March 15 - March 26| **Politics of International Finance**|
+|||1. Read Jensen (see Canvas), pages 2-12|
+|||2. Read [Isidore](https://www.cnn.com/2019/08/13/economy/foreign-direct-investment-china-us/index.html)|
+|||3. Read [Chatzky and McBride](https://www.cfr.org/backgrounder/chinas-massive-belt-and-road-initiative)|
+|||4. Watch [BBC Documentary](https://www.youtube.com/watch?v=OMx_ncuoSzQ)|
+|||5. Read Oatley, pages 241-242.|
+|||**Group Policy Brief due March 17th (5 pm)**|
+|||**Discussion Board #4 due March 26th (5pm)**|
+||||
+||March 29 - April 2| **Spring Recess**|
+||||
+|7|April 5 - April 16| **Political Economy of Financial Crises**|
+|||1.Read [Amadeo](https://www.thebalance.com/2008-financial-crisis-3305679)|
+|||2. Podcast ["The Price of Default"](https://www.npr.org/sections/money/2011/10/14/141365144/friday-podcast-the-price-of-default)|
+|||3. Documentary "The Big Short"|
+|||4. [The Euro and Greek Crisis](https://www.youtube.com/watch?v=ULQiCN0YNmw)|
+|||**Respond to Classmates' Posts by April 5th, (5pm)**|
+|||**Discussion Board #4 due April 16th (5pm)**|
+|||**Quiz #4 due April 16th (5pm)**|
+||||
+|8|April 19 - April 30| **The Global Economy in the 21st Century**|
+|||1. Read Goldman Sachs |
+|||2. Read Barma and Ratner |
+|||3. Read [Greenwald](https://www.atlanticcouncil.org/blogs/new-atlanticist/achieving-supply-chain-independence-in-a-post-covid-economy/)|
+|||4. Read [Mankiw](. http://gregmankiw.blogspot.com/2007/04/case-for-small-carbon-tax.html)|
+|||**Respond to Classmates' Posts by April 19th, (5pm)**|
+|||**Discussion Board #5 due April 30th (5pm)**|
+|||**Quiz #5 due April 16th (5pm)**|
+||||
+|9|May 3 - May 7|**Exam #2**|
+||||
+|10|May 10 - May 15| **Wellness Week**|
+||||
+|11| May 19| **Group Policy Brief #2**|
+
+
+
+
+
+
+
+
+
 

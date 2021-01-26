@@ -111,9 +111,10 @@ Because the reading load is less, I expect students to read the material careful
 | **Assignment**         | **Weight**             | 
 |:--: | :--: | :--: |
 | Discussion Boards | 5 x 6% each = 30%  |           
-| Group Policy Briefs| 2 x 15% each = 30%|           
-| Exams             | 2 x 15% each = 30% |           
-| Quizes            | 5 X 2%  each = 10% |           
+| Group Policy Briefs| 2 x 12.5% each = 25%|           
+| Exams             | 2 x 12.5% each = 25% |           
+| Quizes            | 5 X 3%  each = 15% |  
+|Twitter Engagement | 5% |
 
 
 # Description of Assignments
@@ -139,11 +140,18 @@ The topics of these policy briefs are:
 1. Bitcoin and the Future of the International Monetary System. 
 2. The Political Economy of the COVID-19 Crisis. 
 
-**Quizzes:** There will be 5 quizzes.  Each of them will ask questions about a different set of readings for a specific module (see below for details). The Canvas calendar will have the  deadlines.  *Late quizzes –even a second late- will receive a zero.*
+**Quizzes:** There will be 5 quizzes.  Each of them will ask questions about the video lecture presentation(s) of the different modules. Success in these quizzes is simple: watch the lectures, take notes, pay attention and review your notes before the quizz.  The Canvas calendar will have the  deadlines.  *Late quizzes –even a second late- will receive a zero.*
 
 **Exams:** Students will take two(2) mid-term exams.  These exams will not be cummulative and are likely to include a combination of multiple choice, short answer and essay questions. 
 
 Both exams will be administered on Canvas. They will be open-notes and open-book exams, but you will not be allowed to collaborate with other students in completing them. Both exams will be timed. *Late exams –even a second late- will receive a zero.*
+
+**Twitter Engament:** Extant research suggests that learning in online classes is enhanced when students participate in discussions outside the usual class platform.  I am thus going to actively use my Twitter account **@Prof_Bejar** to tweet (or retweet) stuff that is relevant to our class. This is what you need to do to easily earn 5% of your final grade:
+1. Open a Twitter account if you do not have one.  You are more than welcome to create an account that is exclusive for our class.
+2. Follow my account **@Prof_Bejar**. 
+3. Look for tweets (or retweets) with the hashtag #pols155. 
+4. Engage in discussion with your professor and other classmates.  I am teaching three different classes this semester.  You are welcome to participate in discussion of other classes, but this is not required.
+5. The more you participate in our discussions, the better your grade will be. 
 
 # Policy on Late Work
 
@@ -205,8 +213,8 @@ Students who are suspected of cheating during an exam/quiz/assignment will be re
 |||3. Read [Freeland](http://blogs.reuters.com/chrystia-freeland/2011/07/01/winners-and-losers-in-the-apple-economy/)|
 |||4. Cotton Wars [Podcast](http://www.npr.org/blogs/money/2013/05/03/180912847/episode-224-the-cotton-wars)|
 |||**Respond to Classmates' Posts by February 8th, (5pm)**|
+|||**Quiz #2 due February 12th (5pm)**|
 |||**Discussion Board #2 due February, 19th (5pm)**|
-|||**Quiz #2 due February 19th (5pm)**|
 ||||
 |4|February 22 - March 5| **Politics of International Trade 2**|
 |||1. Read Milner and Kubota (see Canvas), pages 107-111 and 115-118|
@@ -214,8 +222,8 @@ Students who are suspected of cheating during an exam/quiz/assignment will be re
 |||3. Read [Ortiz-Ospina](https://ourworldindata.org/trade-and-income-inequality)|
 |||4. PBS Documentary "Commanding Heights"|
 |||**Respond to Classmates' Posts by February 22nd, (5pm)**|
+|||**Quiz #3 due February 26th (5pm)**|
 |||**Discussion Board #3 due March 5th (5pm)**|
-|||**Quiz #3 due March 5th (5pm)**|
 ||||
 |5|March 8 - March 12|**Midterm Exam #1**|
 ||||||**Respond to Classmates' Posts by March, 8th (5pm)**|
@@ -237,8 +245,8 @@ Students who are suspected of cheating during an exam/quiz/assignment will be re
 |||3. Documentary "The Big Short"|
 |||4. [The Euro and Greek Crisis](https://www.youtube.com/watch?v=ULQiCN0YNmw)|
 |||**Respond to Classmates' Posts by April 5th, (5pm)**|
+|||**Quiz #4 due April 9th (5pm)**|
 |||**Discussion Board #4 due April 16th (5pm)**|
-|||**Quiz #4 due April 16th (5pm)**|
 ||||
 |8|April 19 - April 30| **The Global Economy in the 21st Century**|
 |||1. Read Goldman Sachs |
@@ -246,8 +254,8 @@ Students who are suspected of cheating during an exam/quiz/assignment will be re
 |||3. Read [Greenwald](https://www.atlanticcouncil.org/blogs/new-atlanticist/achieving-supply-chain-independence-in-a-post-covid-economy/)|
 |||4. Read [Mankiw](. http://gregmankiw.blogspot.com/2007/04/case-for-small-carbon-tax.html)|
 |||**Respond to Classmates' Posts by April 19th, (5pm)**|
+|||**Quiz #5 due April 22nd (5pm)**|
 |||**Discussion Board #5 due April 30th (5pm)**|
-|||**Quiz #5 due April 16th (5pm)**|
 ||||
 |9|May 3 - May 7|**Exam #2**|
 ||||

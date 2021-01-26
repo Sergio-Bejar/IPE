@@ -5,7 +5,7 @@ output:
     template: template.tex
 geometry: margin=1in
 
-title: "POLS 155-01: International Political Economy"
+title: "POLS 155-01: The Wealth of Nations"
 author: Sergio Béjar-López
 date: "San Jose State University, Spring 2021"
 

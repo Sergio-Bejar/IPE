@@ -110,11 +110,11 @@ Because the reading load is less, I expect students to read the material careful
 
 | **Assignment**         | **Weight**             | 
 |:--: | :--: | :--: |
-| Discussion Boards | 5 x 6% each = 30%  |           
+| Discussion Boards | 5 x 5% each = 25%  |           
 | Group Policy Briefs| 2 x 12.5% each = 25%|           
 | Exams             | 2 x 12.5% each = 25% |           
 | Quizes            | 5 X 3%  each = 15% |  
-|Twitter Engagement | 5% |
+|Twitter Engagement | 10% |
 
 
 # Description of Assignments
@@ -148,12 +148,12 @@ Both exams will be administered on Canvas. They will be open-notes and open-book
 
 **Twitter Engament:** Extant research suggests that learning in online classes is enhanced when students participate in discussions outside the usual class platform.  I am thus going to actively use my Twitter account **@Prof_Bejar** to tweet (or retweet) stuff that is relevant to our class. This is what you need to do to easily earn 5% of your final grade:
 
-1. Open a Twitter account if you do not have one.  You are more than welcome to create an account that is exclusive for our class.
+1. Open a Twitter account if you do not have one.  You are more than welcome to create an account that is exclusive for our class. Deadline is **January, 29th (5 pm)**.
 2. Follow my account **@Prof_Bejar**. 
-3. Check Twitter often and look for tweets (or retweets) with the hashtag #pols155. 
-4. Engage in discussion with your professor and other classmates.  I am teaching three different classes this semester.  You are welcome to participate in discussion of other classes, but this is not required.
-5. Invite your family, friends, coworkers, etc. to join the IPE fun on Twitter. While I am primarily interested in helping my students learn, I would not mind if we create an inclusive environment where people outside our class get information about the international economic system and/or politics in general.
-6. The more you participate in our discussions, the better your grade will be. 
+3. All your Tweets must have the hashtag **#SJSU_POLS155** so that I and your  classmates can follow you.
+4. Follow at least 25 accounts that regularly Tweet about comparative politics.  You can search Twitter and find Tweets related to topics discussed in class, or you can look at trending topics when events are in the news.  You can also search hashtags to find streams that will be of interest to you.  You could also look at who other classmates and people are following and decide to follow them too. Deadline is **February 3rd (5pm)**.
+5. Post a minimum of 2 Tweets per week. The goal for you is to read Twitter as much as possible and Tweet consistently about what you are reading to help you "make sense" of it and ask questions about it.  Therefore, you must have a minimum of 32 Tweets at the end of the term (although you are welcome and encouraged to send more).  To receive full credit a minimum of 10 Tweets MUST be completed prior to **March 2nd**, and at least 20 Tweets MUST be completed prior to **April 9th**.  Failrure to meet a deadline will result in a reduced number of points. Again, you MUST Tweet CONSISTENTLY to receive full credit (i.e. I will not give you full credit if you Tweet 10 times on March 2nd).
+*To be counted, Tweets must include the course hashtag (#SJSU_POLS155), and a link to the relevant article or picture, with a statement of how it relates to a topic discussed in class, and why others might want to read it for this class.  Once you get going, you may find yourself Tweeting more easily and often than you expect.*  
 
 # Policy on Late Work
 
@@ -164,6 +164,8 @@ Both exams will be administered on Canvas. They will be open-notes and open-book
 **Group Policy Briefs:** your briefs will be penalized 25% for each started 24-hour period (starting at 5:01pm). 
 
 **Exams and quizzes:** exam and quiz make-ups are only given in cases of medical or family emergencies, in accordance with the university’s policy on excused absences. In these cases, you MUST notify me before the exam and proper documentation must be provided.
+
+\newpage
 
 # Grading Scale 
 
@@ -191,6 +193,8 @@ in place to protect the privacy of students in the course, as well as to maintai
 # Academic Dishonesty
 
 Students who are suspected of cheating during an exam/quiz/assignment will be referred to the Student Conduct and Ethical Development office and depending on the severity of the conduct, will receive an  F in the course. Grade Forgiveness does not apply to courses for which the original grade was the result of a finding of academic dishonesty.
+
+\newpage
 
 # Course Schedule (Subject to Change with Fair Notice)
 
@@ -264,12 +268,6 @@ Students who are suspected of cheating during an exam/quiz/assignment will be re
 |10|May 10 - May 15| **Wellness Week**|
 ||||
 |11| May 19| **Group Policy Brief #2**|
-
-
-
-
-
-
 
 
 

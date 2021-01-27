@@ -5,7 +5,7 @@ author: "Steven V. Miller<br /> <br /> <br /> Department of Political Science"
 institute: Department of Political Science
 output:
   xaringan::moon_reader:
-    css: ["default", "../svm-xaringan-style.css"]
+    css: ["xaringan.css]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -13,25 +13,14 @@ output:
       countIncrementalSlides: false
 ---
 
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-knitr::opts_chunk$set(dev = 'svg')
-options(device = function(file, width, height) {
-  svg(tempfile(), width = width, height = height)
-})
-library(tidyverse)
-library(stevemisc)
-```
+
 
 
 
 # Install Xaringan First
 
 Install the **xaringan** package from [Github](https://github.com/yihui/xaringan):
-
-```{r eval=FALSE, tidy=FALSE}
-devtools::install_github("yihui/xaringan")
-```
+`
 
 
 You are recommended to use the [RStudio IDE](https://www.rstudio.com/products/rstudio/), but you do not have to.

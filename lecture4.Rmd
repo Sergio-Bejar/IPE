@@ -1,0 +1,137 @@
+---
+title: "The Case for Free Trade: 2"
+subtitle: "Theories of Free Trade"
+author: "Sergio Béjar"
+institute: "POLS155, Lecture 4"
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+# In this lecture we will learn about:
+
+The Comparative Advantage Model (David Ricardo) and Heckscher-Ohlin Models
+
+---
+# Comparative Advantage
+
+Let's go to Ricardo's famous model on the benefits of free trade.
+
+<br>
+
+- Assume only two countries: England and Spain.
+- Assume just two goods (of identical quality): cloth and wine
+
+<br>
+
+For simplicity's sake, let's reduce measurements to work-hours for one "unit."
+
+---
+<br>
+
+<br>
+
+| **Country** | **Work-Hours for Cloth** | **Work-Hours for Wine** |
+|:--------|:--------------------:|:-------------------:|
+| *England* | 100 | 120 |
+| *Spain* | 90 | 80 |
+
+Table: Hours of Work Necessary to Produce One Unit (Ricardo's Example)
+---
+# Absolute and Comparative Advantage
+
+Notice: Spain is the more efficient country.
+
+<br>
+
+- It requires fewer hours to produce cloth (90 to 100)
+- It requires fewer hours to produce wine (80 to 120)
+
+<br>
+
+We say Spain has an **absolute advantage** over England in the production of both.
+
+---
+# Absolute and Comparative Advantage
+
+However, England has unique advantage in the production of cloth.
+
+<br>
+
+- 100 work-hours gets England a unit of cloth of 5/6ths a unit of wine.
+- 90 work-hours gets Spain a unit of cloth and 1 and 1/8ths a unit of wine.
+
+<br>
+
+Spain has an absolute advantage (i.e. fewer work-hours) but England has a **comparative advantage** (i.e. a lower opportunity cost).
+---
+
+# Why Not Specialize and Trade?
+
+Under **autarky** (i.e. absence of trade), 220 (170) total work-hours gets England (Spain) a unit of each. However:
+
+- Spain is more efficient at producing wine than cloth.
+- England is more efficient at producing cloth than wine.
+
+If they were to specialize in their comparative advantages:
+
+- Spain could produce 2.125 units of wine.
+- England could produce 2.2 units of cloth.
+
+If they were to liberalize their trade, both would produce and consume more of both than they could under autarky.
+---
+
+# A Difficult "Sell"
+
+Economic logic stood at odds with mercantilist policies.
+
+- Government policies that reduce imports compromise efficiency.
+- Exports are fine but they're not the only metric for evaluating trade.
+
+<br>
+
+Indeed: *imports are the gains from trade while exports are its costs.*
+- Imports allow countries to focus production on its strengths.
+- *Remember this the next time you hear some politician talk about the "trade deficit."*
+
+---
+# Heckscher-Ohlin Trade Theory
+
+A country will export goods that make intensive use of the factors of production in which it is well-endowed. Factors include:
+
+<br>
+
+- Land (essential to agriculture)
+- Labor (usually: unskilled labor)
+- Capital (referring to machinery and financial assets to operate machinery)
+- Human capital (skilled labor)
+---
+# Heckscher-Ohlin Trade Theory
+
+Example of countries exporting what they're good at:
+
+<br>
+
+- 19th century U.S. (tobacco, cotton, wheat)
+- Current U.S. (capital-intensive machinery)
+- Bangladesh (huge low-skilled labor population)
+
+---
+![](https://github.com/Sergio-Bejar/IPE/blob/main/figures/US_technology.png?raw=true)
+
+---
+![](https://github.com/Sergio-Bejar/IPE/blob/main/figures/clothes.png?raw=true)
+
+---
+![](https://github.com/Sergio-Bejar/IPE/blob/main/figures/USexports.png?raw=true)
+
+---
+class: inverse, center, middle
+
+# The End

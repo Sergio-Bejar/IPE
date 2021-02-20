@@ -38,7 +38,7 @@ library(stevemisc)
 
 .pull-left[
 
-Personal and professional relationships matter!
+Relationships matter!
 ![](/Users/sergiobejar/Desktop/ExperimentPola/Berlin.jpg)
 ]
 
@@ -79,12 +79,11 @@ My second office is here:
 - Vendor's interest often at odds with mine. 
 
 <br> 
---
+
 **Regular communication** and a detailed **workflow** helped overcome these issues and allowed the project to be completed successfully.  
 
 
 ---
-
 ```{r, eval = T, echo = F, fig.width=11, fig.height = 8, message=F, dev='svg', fig.cap = "SDFSFDSFS"}
 
 data <- read.csv("/Users/sergiobejar/Desktop/ExperimentPola/data.csv")
@@ -112,9 +111,7 @@ ggplot(data, aes(x=Year)) + geom_line(aes(y=fh_pr), size = 1.5, color = democrac
 .pull-left[
 **What do we know?**
 
-- High levels of polarization in Latin American democracies, associated with negative democratic outcomes.  
-
-- Work in developing democracies focuses on "elite" polarization -aggregate level.-
+- Polarization associated with negative democratic outcomes.  
 
 - Empirical evidence is mixed. 
 1. Alienation hypothesis.
@@ -125,27 +122,27 @@ ggplot(data, aes(x=Year)) + geom_line(aes(y=fh_pr), size = 1.5, color = democrac
 .pull-right[
 **What is missing?**
 
-- Work outside developed democracies primarily uses aggregate data of elite polarization. Correlation does not necesarilly mean causation.
+- Work in developing democracies uses aggregate data of elite polarization. Correlation does not necesarilly mean causation.
 
-- Work in new and developing democracies at the individual level on the effects of polarization.   
+- Little work at the micro-level on polarization outside developed nations.    
 
 - Distinguishing between "affective" and "programmatic" polarization.
 
 ]
 
-<br>
-
-Polarization and political participation are complex (multi-dimensional) concepts.  My approach here: work with narrower concepts. 
+*Polarization and political participation are complex (multi-dimensional) concepts.  My approach here: work with narrower concepts.* 
 ---
-class: center, middle
-
 #Research Question
+
+<br> 
 
 **How does programmatic polarization affect an individual's likelihood of participating in a campaign rally?**
 
 <br>
-Programmatic polarization (DV): Degree of policy differentiation among parties/candidates. 
-Political mobilization (IV): Assistance to a campaign rally. 
+
+<br>
+- Programmatic polarization: Degree of policy differentiation among parties/candidates. 
+- Political mobilization: Participation in a campaign rally. 
 ---
 #Hypotheses
 
@@ -317,8 +314,6 @@ title(main = "Means of Selected Covariates Pre-Treatment",
       outer = TRUE, cex.main = 2)
 
 ```
-
---
 Balance across groups minimizes issues of selection bias.  
 ---
 # Results: $H_1$
@@ -379,8 +374,7 @@ barCenters <- barplot(height = myData$mean,
 segments(barCenters, myData$mean - myData$se *  1.96, barCenters,
          myData$mean + myData$se * 1.96, lwd = 2)
 ```
-- One-way ANOVA: significant difference between the groups (Chi^2 = 23.18, p = 1.34e-10). 
-- Tukey test: No significant difference between the control and "reduce spending" treatment.  
+- *One-way ANOVA:* significant difference between the groups (Chi^2 = 23.18, p = 1.34e-10). *Tukey test:* No significant difference between the control and "reduce spending" treatment.  
 ---
 # Results: $H_1$
 ```{r, eval = T, echo = F, fig.width=10, fig.height = 6, message=F, dev='svg', fig.cap = "SDFSFDSFS"}
@@ -398,7 +392,7 @@ segments(1:2, ci[, 1], 1:2, ci[, 2], col = "blue")
 abline(0, 0, col = "grey")
 title(main= "SATE: Mobilization", cex.main = 2)
 ```
---
+
 - **T1 (Taxing the Rich)** has a negative and statistically significant effect on mobilization. It reduces it by approximately 17%. This supports the **alienation hypothesis.**
 
 ---
@@ -456,7 +450,7 @@ Effect is positive but not statistically significant.  No evidence of heterogene
 
 Higher levels of programmatic polarization alienate people from participating in politics even when accounting for the mediating effect of political ideology.  
 
-But we need to remember that the findings presented here might not travel to other parts of the world.  We need to evaluate the external validity of the results presented here. 
+Keep in mind that the findings presented might not travel to other parts of the world.  We need to evaluate the external validity of the results. 
 
 ## Campaign Strategy
 
@@ -465,7 +459,7 @@ But we need to remember that the findings presented here might not travel to oth
 
 ## Social Media Companies
 
-- Content of political ads matters.  We just saw that  more polarization leads to lower mobilization.  It is possible that high levels of polarization not only turn people off from politics, but also reduce user engagement and ultimately lead to churn. 
+- Content of political ads matters.  It is possible that high levels of polarization not only turn people off from politics, but also reduce user engagement and ultimately lead to churn. 
 - It is important to understand "how" and "when" polarized content has negative effect on engagement metrics. 
 
 ---
@@ -493,7 +487,7 @@ online through Facebook ads that direct them toward our online survey programmed
 - Program a large number of images of Facebook and Instagram posts that randomize the candidates’ messages together other text-based personal traits.
 - Below each electoral scenario, respondents are then asked to report a) whether they think people from their country should attend to the polls and vote in that particular electoral contest, b) whether they would “like” and “share” one or both of
 the candidates’ messages in social media they just read, and c) they cast a vote in a non-forced choice question where one possibility not voting (abstention).
-
+---
 ##Analysis
 - Average marginal component effects (AMCE) of candidate’s attributes on both mobilization outcomes, and clustering standard errors at the respondent level.
 - Heterogeneous effects via Average Marginal Effects (AME) across different segments of survey respondents.

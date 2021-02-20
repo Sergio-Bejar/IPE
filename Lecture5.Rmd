@@ -1,0 +1,101 @@
+---
+title: "Trade Protectionism"
+subtitle: "Lecture 5"
+author: "Sergio Béjar"
+institute: ""
+date: "2/24/2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "xaringan.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+##Why Countries Put Up Barriers to Trade? 
+
+We know (hopefully) by now that the world is more interconnected now than even before.  Free trade today is the norm. 
+
+- But this really is an exeption, not the historical rule. 
+
+<br>
+
+Countries have used/still use various tools to redice imports:
+
+- Tariffs 
+- Quantitative restrictions (i.e. quotas)
+- Non-tarif barriers (e.g. regulations)
+---
+## Historical Patterns
+
+<br>
+
+Openness to trade has varied substantially over time.
+
+- Over 300 years of mercantilism after the discovery of the Americas.
+- Increase in trade followed height of Pax Britannica.
+    - U.S. was noteworthy exception here.
+- World wars and the Great Depression made protectionism the norm again.
+
+<br>
+
+One such reason why the U.S. has led the charge for liberalizing trade worldwide.
+---
+![](https://github.com/Sergio-Bejar/IPE/blob/main/figures/tradeUS.png?raw=true)
+
+---
+![](https://github.com/Sergio-Bejar/IPE/blob/main/figures/tradeUS2.png?raw=true)
+---
+
+## Why Do Countries Put Up Barriers to Trade?
+
+<br>
+
+Domestic politics, really.
+
+<br>
+
+- Free trade creates diffuse benefits but sometimes concentrates costs.
+---
+## Who Benefits from Protectionism?
+
+<br>
+
+- National producers
+- Scarce factors (see: **Stolper-Samuelson Theorem**)
+- Specific industries (see: **Ricardo-Viner Theorem**)
+---
+## Stolper-Samuelson Theorem
+
+<br>
+Within the H-O framework.  The Stolper-Samuelson Theorem describes the relationship between relative prices of output and relative facto rewards (think of real wages and return to capital).
+
+<br>
+
+Specifically, the SS suggests that:
+- An increase in the price of the capital-intensive good increases the return to capital and decreases the return to the other factor (labor).
+- Likewise, an increase in the price of the labor-intensive good increases wage and reduces rent. 
+
+---
+## Who Loses from Protectionism?
+
+<br>
+
+- You
+- Also: exporters (who fear reprisal)
+
+---
+# Conclusion
+
+*Free trade is good*.
+
+- Free trade follows logic of comparative advantage.
+- It creates abundance unavailable under autarky/mercantilist policies.
+- *Imports are actually gains from trade, and not losses*.
+
+However, trade, like any policy, creates winners and losers.
+
+- Problem: benefits are diffuse but costs can be concentrated.
+- Protectionism is a public bad, but it's more the norm than free trade (historically).

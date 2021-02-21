@@ -1,0 +1,30 @@
+---
+title: "POLS 155- Lecture 5"
+author: "Sergio Bejar"
+output: pdf_document
+---
+
+This lecture has the objectve of introducing you to the reasons that explain why countries decide to use protectionist trade policies.  
+
+By now we all hopefully know that the world is interconnected and that free trade is more the norm rather than the exception these days.  But the prevalence of free trade (and globalization more generally) is not really a hisrotical rule.  As Milner and Kubota explain, the recent trend toward trade openness coincides with the expansion of democracy in the world, a process that started in the late 1970's. 
+
+Historically, countries have used a varuierty of protectionist policies:  tariffs which are taxes to imports; quaotas or quantitative restrictions (i.e. limiting the quantity of cotton that can be imported); or other non-tarif barriers like regulations (a hypothetical example would be the United States imposing a regulation asking all cotton imported to be grown organically)
+
+Threre have been a number of waves when it comes to trade liberalization.  For many year, in the 17th, 18th and 19th century, mercantilist policies allowed free trade to expan in the world, but that process was halted by the world wars in the 20th centuries and the great depression.  Again, this new wave of trade liberalization started in the late 1970's.  We are seeing a push back from many goverments recently.  Specifically, politicians favoring nationalist policies which as we have discussed limit trade with other nations. 
+
+In thi figure, you can see that trade as a percentage of Gross Domestic Product in the US has increased over time, in particular since the early 1980's.  You can see that there are 2 important declines that followed the 2009 mortgage crisis. Overall, however, the trend is upward. 
+
+This second plot helps illustrate what I mentioned about the different waves of globalization.  Again, free trade is not always the norm.  Indeed, we can see here that the importance of trade in the US economy is not constant over time.  This variation was substantial immediately after the US gained independence from the United Kingdom. 
+
+The ke question thus is:  Why countries out barriers to trade?
+
+The answer is simple:  DOMESTIC POLITICS.
+
+Trade creates gains, but those gains are difused and sometimes concentrate its costs on certain segments of the population that claim or ask the government for protection. 
+
+In general, protectionism favors national producers of those sectors that are affected by open borders, sectors that have scarce factors and specific industries.  Producers in those sectors or industries that are affected are likely to lobby the government for protection.  
+
+For example, the Stople Samuleson Theorem suggests that an increase in the price of a capital intensive good increases the return to capital and decreases the return in the other factor.  
+
+Please recall that the US, for example, is a country with abundance of capital.  The Stopler Samuelsom theorem would predict taht owners of capital (think of technology firms for instance) will ask for openess while the owners of unskilled labor will ask for protection (rememeber sugar producers or cotton farmers?)
+

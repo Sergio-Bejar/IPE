@@ -1,0 +1,25 @@
+---
+title: "POLS 155- Lecture 6"
+author: "Sergio Bejar"
+output: pdf_document
+---
+
+We mentioned in the previous lecture that the decision to open (or close) borders to international trade is usually driven by domestic politics (or domestic concerns).  This means that countries can open or close their borders to trade regarless of what other countries do. 
+
+But trade is still a strategic problem:  countries condition mutually beneficial trade based on reciprocity from others. 
+
+In reality, the startegic problems of trade resemble a prisoner's dilema though applications are very specific.  
+A prisoner's dilema is the simplest game theoretical model. The classical example consists of 2 thiefs that are caught by the police .  The number of years they will spend in prison depends on whether they cooperate with the police (that is, if they confess that they commited the crime with the other guy) or if the defect (decide not to confess).  If they cooperate, they spend less time in prison.  The problem (or dilemma) they face is that they do not know what the other guy is going to confess (they have imperfect information).  The best outcome for both is to cooperate, but in the majority of cases they decide to defect.  They, in other words, do not make the best decision and this is because of imperfect information. 
+
+In the trade poliy realm.  The decisions usually imply 3 different types of problems:
+- tit-for-tat, make tariffs reciprocal
+- regulatory barriers that make it difficult to believe that countries will cooperate with others 
+or
+-dumping which is exporting products at prices that are lower than normal (China is often accused of this practice.  Although they do this by manipulating the exchange rate).
+
+The way to overcome the prisoner's dilemma problem in trade or to cooperate with other and reduce restrictions to trade is usually done through four channels:
+- getting a samll number of trade partners 
+- imporving information
+- repeted interaction with other countries 
+and 
+-linkage politics

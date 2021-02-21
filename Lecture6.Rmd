@@ -1,0 +1,110 @@
+---
+title: "The Politics of (Free) Trade"
+subtitle: "Lecture 6"
+author: "Sergio Béjar"
+institute: ""
+date: "2/24/2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "xaringan.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+## How Do Countries Get What They Want in Trade?
+
+<br>
+
+Trade protectionism is largely driven by domestic concerns.
+
+- Certainly countries can open or close their borders regardless of the action of others.
+
+Still: trade is fundamentally a strategic problem.
+
+- Countries condition mutually beneficial trade based on reciprocity from others.
+---
+## The Strategic Problems of Trade
+
+Strategic problems in trade resemble a prisoner's dilemma though applications are specific.
+
+- Tit-for-tat tariffs
+- Credible commitment problems
+    - These are routinely disguised as regulatory barriers
+- Dumping (exporting at a price below the normal price)
+
+---
+## Overcoming Problems of Strategic Interaction
+
+There are generally four ways to overcome the prisoner's dilemma in trade.
+
+1. Small-numbers
+2. Information
+3. Repeated interaction
+4. Linkage politics
+
+---
+## Small-Numbers
+
+Coordination problems and free-riding follows large groups.
+
+- Monitoring is costly.
+- States have an incentive to cheat but get the benefit anyway.
+
+Monitoring and enforcement are easier in small numbers.
+
+- e.g. NAFTA, Mercosur
+
+---
+## Information
+
+Prisoners "defect" in the prisoner's dilemma because information is concealed. That's less true in trade.
+
+- Common knowledge makes states more likely to cooperate.
+
+---
+## Repeated Interaction
+
+Cooperation becomes more likely in repeated interactions.
+
+- Again: recall the implications of the prisoner's dilemma.
+
+Repeated interaction also ameliorates information problem.
+---
+## Linkage Politics
+
+Trade, like any policy, creates winners and losers.
+
+- States might "give" in one area to "get" in another.
+
+---
+## The Importance of Institutions
+### 
+
+![Institutions, like the WTO, are systematic attempts to provide order to trade policy](https://github.com/Sergio-Bejar/IPE/blob/main/figures/WTO.png?raw=true)
+---
+## The Importance of Institutions
+
+Generally, institutions facilitate trade through two mechanisms
+
+- Reciprocity (explicit or implicit)
+- Most-favored nation status
+
+### World Trade Organization
+
+The most important IGO for trade.
+
+- Grew From GATT (one of the original BWIs from 1947)
+
+WTO facilitates negotiations among trading partners through "rounds" based on the norm of reciprocity.
+
+- Basically: to balance out dollar-value of concessions.
+- Also facilitates dispute resolution (Dispute Settlement Body) and, importantly, information (i.e. states are compelled to report trade-restriction initiatives).
+
+Fun fact: the U.S. is the most frequent defendant in the WTO despite being its most enthusiastic supporter.
+
+- The U.S. usually honors its defeats based on its value for long-term cooperation.
+---
+![](https://github.com/Sergio-Bejar/IPE/blob/main/figures/agreements.png?raw=true)

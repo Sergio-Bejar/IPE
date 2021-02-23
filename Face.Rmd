@@ -29,7 +29,7 @@ library(stevemisc)
 - About Myself
 - The Project
 - Puzzle & Research Question
-- Hypothesis 
+- Hypotheses 
 - Research Design
 - Results 
 - Conclusion & Extensions
@@ -130,7 +130,7 @@ ggplot(data, aes(x=Year)) + geom_line(aes(y=fh_pr), size = 1.5, color = democrac
 
 ]
 
-*Polarization and political participation are complex (multi-dimensional) concepts.  My approach here: work with narrower concepts.* 
+*Polarization and political mobilization are complex (multi-dimensional) concepts.  My approach here: work with narrower concepts.* 
 ---
 ##Research Question
 
@@ -141,6 +141,7 @@ ggplot(data, aes(x=Year)) + geom_line(aes(y=fh_pr), size = 1.5, color = democrac
 <br>
 
 <br>
+**Operational Definitions**
 - Programmatic polarization: Degree of policy differentiation among parties/candidates. 
 - Political mobilization: Participation in a campaign rally. 
 ---

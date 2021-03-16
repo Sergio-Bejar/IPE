@@ -1,0 +1,118 @@
+---
+title: "Foreign Direct Investment"
+subtitle: "International Finance 1"
+author: "Sergio Béjar"
+institute: ""
+date: "3/15/2015"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "xaringan.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(dev ='svg')
+options(device = function(file, width, height) {
+  svg(tempfile(), width = width, height = height)
+})
+library(tidyverse)
+library(stevemisc)
+```
+## Puzzle(s) for Today
+
+*Overseas investment tops about $5 trillion a year. What's happening here and why is this international political economy?*
+
+---
+## Why Invest Overseas, and How?
+### How and Why Do People Invest Overseas?
+
+There are generally two types of foreign investments: portfolio and direct.
+
+- Portfolio: simple investment with no management input.
+    - Sovereign lending constitutes a big chunk of portfolio investment.
+- Foreign direct investment (FDI): direct investors maintain managerial control over foreign operation.
+    - Think of a BMW plant in Spartanburg, SC, or Michelin plant in Greenville, SC.
+---
+## Why Invest Overseas, and How?
+
+<br>
+
+Simple: profit, and a higher rate of return.
+
+- Countries lacking in capital will pay a higher interest for capital investments.
+- Ability to invest in resources not available in home/capital-rich country.
+- Certainly differences in business environment matter too.
+
+---
+![](https://github.com/Sergio-Bejar/IPE/blob/main/figures/fdi.png?raw=true)
+
+---
+
+## The Risks of Foreign Investment
+
+<br>
+Foreign investment brings a unique risk separate from domestic investment.
+
+<br>
+
+- Sovereign risk: more difficult to enforce debt collection in a foreign jurisdiction.
+- Foreign investors don't enjoy the same rights as national borrowers.
+
+---
+
+## Why Borrow?
+
+Borrowing is usually quite popular within borrowing countries, at least early.
+
+- More capital = cheaper to borrow.
+- Allows for more government spending without taxation.
+
+However, that ends when it's time to pay up.
+
+- Governments usually service their debts through unpopular austerity measures.
+
+---
+
+## So What's the Problem?
+
+Borrowing is contentious largely because of the **moral hazard**.
+
+- i.e. banks view their profits as private and expect their losses to become public.
+
+This certainly explains Wall Street's line of thinking.
+
+
+---
+##Multinational Corporations (MNCs)
+
+MNCs constitute one of the major institutional players in international finance. Types of FDI:
+
+- Greenfield: build a new factory from the ground up (e.g. Michelin in South Carolina)
+- Mergers and acquisitions (e.g. Anheuser-Busch InBev)
+- Joint ventures (i.e. shared ownership)
+
+---
+
+## Why Do MNCs Invest Abroad?
+
+Again, simple: profit, and a higher rate of return.
+
+- Minimize factor costs and search for low-labor.
+- Take advantage of permissive tax environments
+- Take advantage of supply chains that are simply unavailable
+    - i.e. good luck getting an iPhone produced in the U.S.
+---
+## Problems of MNC Investment
+
+MNCs generate profit and economic activity is good. But:
+
+- Not a development panacea.
+- Capital is more mobile than labor.
+- Related problem of immigration.
+
+Further, FDI is not well-regulated at the international level like trade is.
+

@@ -3,7 +3,7 @@ title: "Foreign Direct Investment"
 subtitle: "International Finance 1"
 author: "Sergio Béjar"
 institute: ""
-date: "3/15/2015"
+date: "3/15/2021"
 output:
   xaringan::moon_reader:
     lib_dir: libs

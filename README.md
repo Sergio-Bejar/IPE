@@ -1,3 +1,3 @@
 # International Political Economy 
 
-Materials/Resources for the International Political Economy class.  SJSU. 
+Materials/Resources for the International Political Economy (IPE) class.

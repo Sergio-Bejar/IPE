@@ -1,0 +1,79 @@
+---
+title: "International Financial Institutions"
+subtitle: "International Finance 2"
+author: "Sergio Béjar"
+institute: ""
+date: "3/15/2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "xaringan.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(dev ='svg')
+options(device = function(file, width, height) {
+  svg(tempfile(), width = width, height = height)
+})
+library(tidyverse)
+library(stevemisc)
+```
+## Two Main International Financial Institutions
+
+- The International Monetary Fund (IMF) 
+- The World Bank (WB)
+
+---
+## The International Monetary Fund
+### The Role of the IMF
+
+The IMF helps manage the international monetary system.
+
+- Cooperation through an IGO to guarantee monetary stability.
+- Countries contribute to fund, from which they can draw during a crisis.
+- Loans are provided with low interest rates but with policy strings attached.
+
+---
+### Benefits of the IMF
+
+- IMF facilitates relations between borrowers and lenders.
+- Produces agreements where they might not otherwise exist.
+- Helps signal creditworthiness for would-be borrowers.
+
+---
+### Criticisms of the IMF
+
+IMF does disaster management, but not a lot of disaster prevention. Recent crises:
+
+- Mexico (1982, 1988, 1994)
+- East Asia (1997)
+- Brazil (1998)
+- Russia (1998)
+- Argentina (2001)
+
+In fact, Argentina defaulted on $93 billion of its debt and still hasn't repayed.
+
+---
+### Additional Criticisms of the IMF
+
+IMF negotiations are less than "democratic."
+
+- Routinely, ordinary citizens bear the costs of adjustment.
+
+---
+## The World Bank
+### The World Bank
+
+The World Bank is another BWI to facilitate international finance.
+
+- Gets most of its money from borrowing on other financial markets, typically at low rates.
+- Provides concessional lending below market rates.
+- Typically "project-focused" and invested in poorer countries.
+
+Concessional lending is less controversial than private FDI, but debt is still debt.
+
+
